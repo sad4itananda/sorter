@@ -13,7 +13,7 @@ Implement class `Sorter` with next methods:
 
 `toArray` - return all elements in array. For example:
 ```js
-  const sorter = new Sorter();
+  const sorter = new Sorter(); 
   sorter.add(1);
   sorter.add(2);
 
